@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "user_id": "USER-ADMIN",
+      "name": "System Administrator",
+      "email": "admin@dam.local",
+      "role": "admin",
+      "password_hash": "5e5317a5251da778f959fbe822ac77a7$8d224226b179bd5b163d020e6b7da12236a5acb91c324718413b4de93ed6fca0",
+      "created_at": "2026-09-29 14:52:46"
+    },
+    {
+      "user_id": "USER-2C120420",
+      "name": "wacky",
+      "email": "wackyvillarina@gmail.com",
+      "password_hash": "36eee5cc685e576593ffdddef53dfa7c$c2fc3e13c215e92eb63f372909d21eeff504a019b78bd0d73a88685cbd1578de",
+      "role": "admin",
+      "created_at": "2026-10-05 16:17:12"
+    },
+    {
+      "user_id": "USER-EF82E7A4",
+      "name": "waks",
+      "email": "wacky123@gmail.com",
+      "password_hash": "159938251bd27033fc76e1d526c69cec$b76211e7754d34e57d42a6adffafbb87af0890e3ee6e2fa9ad72fe21ab22ddcf",
+      "role": "admin",
+      "created_at": "2026-10-06 17:10:16"
+    },
+    {
+      "user_id": "USER-6B79EBE5",
+      "name": "waks",
+      "email": "wacky@gmail.com",
+      "password_hash": "fc03bb41ba587f6b37254a6458e5dba0$7f3cfae1bc44728122dbb34b7c25366e2f3c0d05edecd0cae9eb89a4f28193ab",
+      "role": "admin",
+      "created_at": "2026-10-06 17:10:56"
+    }
+  ],
+  "assets": [],
+  "reviews": [],
+  "usage_rights": []
+}
